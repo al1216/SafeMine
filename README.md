@@ -17,9 +17,6 @@ Live a stress-free life.
 - [Logo](#logo)
 - [Screenshots](#screenshots)
 - [Technology Stack](#tech_stack)
-- [Open-Source program](#open_source_programs)
-- [Project Admin](#admin)
-- [Contributors](#contributors)
 
 ## 🔎 Problems it Solves: <a name = "problem_statement"></a>
 - Gives mental peace 🧘‍♀️
